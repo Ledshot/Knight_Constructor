@@ -1,0 +1,13 @@
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.exe
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.deps.json
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.runtimeconfig.json
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.runtimeconfig.dev.json
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.dll
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\bin\Debug\netcoreapp3.1\Knights.pdb
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.csprojAssemblyReference.cache
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.AssemblyInfoInputs.cache
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.AssemblyInfo.cs
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.csproj.CoreCompileInputs.cache
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.dll
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.pdb
+C:\Users\Ledshot\Desktop\C#\Knights\Knights\obj\Debug\netcoreapp3.1\Knights.genruntimeconfig.cache
